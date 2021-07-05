@@ -1,0 +1,29 @@
+.button{
+  width: 150px;
+  height: 50px;
+  background-color: crimson;
+
+}
+hr{
+  width: 150px;
+  background-color: black;
+  color: black;
+  border: 0px;
+  height: 2px;
+  text-align:left;
+  margin-left: 0px;
+}
+.body{
+  background-color: rgb(77, 222, 248);
+}
+.header1{
+  margin-left: 0px;
+}
+.login{
+  margin-left: 600px;
+  margin-top: 50px;
+}
+.add1{
+  margin-left: 600px;
+  margin-top: 10px;
+} 
